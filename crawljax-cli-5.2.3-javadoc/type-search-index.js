@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.crawljax.cli","l":"JarRunner"},{"p":"com.crawljax.cli","l":"LogUtil"},{"p":"com.crawljax.cli","l":"ParameterInterpeter"}]
